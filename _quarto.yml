@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ladd Choate"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/ladd-choate-550122430/
+      - icon: envelope
+        text: Email
+        href: mailto:lchoate@uark.edu
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
+editor: visual

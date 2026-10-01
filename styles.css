@@ -1,0 +1,7 @@
+/* Razorback-red accent */
+.navbar { background-color: #9D2235 !important; }
+a { color: #9D2235; }
+.btn-primary { background-color: #9D2235; border-color: #9D2235; }
+.btn-primary:hover { background-color: #7a1a29; border-color: #7a1a29; }
+.quarto-title-banner { background-color: #9D2235; }
+.quarto-title-banner h1, .quarto-title-banner .title { color: #ffffff; }

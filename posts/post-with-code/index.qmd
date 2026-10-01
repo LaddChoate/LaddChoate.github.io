@@ -1,0 +1,9 @@
+---
+title: "Post With Code"
+author: "Ladd Choate"
+date: "2026-09-30"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.

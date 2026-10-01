@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ladd Choate",
+    "section": "",
+    "text": "I’m an Industrial Engineering and Operations Analytics student at the University of Arkansas. Before coming to Fayetteville, I completed coursework at the University of Central Arkansas and Arkansas State University–Beebe.\nI’m interested in using data, optimization and simulation to help organizations run more efficiently, from inventory and facility decisions to scheduling and process design.\nOutside the classroom, I work in sales, helping established businesses across Northwest and Central Arkansas modernize their websites and online presence. It has taught me how to research a market, qualify leads and communicate value clearly."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nLadd Choate\n\n\nSep 30, 2026\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nLadd Choate\n\n\nSep 27, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download my resume (PDF)\n\n\nYour browser can’t display the PDF here. Open the resume PDF."
+  }
+]

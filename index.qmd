@@ -1,0 +1,22 @@
+---
+title: "Ladd Choate"
+subtitle: "Industrial Engineering & Operations Analytics · University of Arkansas"
+image: resources/headshot.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ladd-choate-550122430/
+    - icon: envelope
+      text: Email
+      href: mailto:lchoate@uark.edu
+---
+
+I'm an Industrial Engineering and Operations Analytics student at the University of Arkansas. Before coming to Fayetteville, I completed coursework at the University of Central Arkansas and Arkansas State University–Beebe.
+
+I'm interested in using data, optimization and simulation to help organizations run more efficiently, from inventory and facility decisions to scheduling and process design.
+
+Outside the classroom, I work in sales, helping established businesses across Northwest and Central Arkansas modernize their websites and online presence. It has taught me how to research a market, qualify leads and communicate value clearly.
